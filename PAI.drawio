@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-31T14:02:03.661Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" etag="zLeHhRF7HAGbjLiYeqJK" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-31T14:03:26.800Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" etag="KUF6cm5LAUugM6m2pQaf" version="12.1.8" type="github" pages="3">
   <diagram name="Carregamento CIF" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="868" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Carregamento FOB" id="wvZqJDoXAs2KBbJLKaqx">
-    <mxGraphModel dx="723" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JmH2wS-UnPYUT30hO3oi-0"/>
         <mxCell id="JmH2wS-UnPYUT30hO3oi-1" parent="JmH2wS-UnPYUT30hO3oi-0"/>
@@ -258,7 +258,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Descarga" id="ZrFWQGwldFwGv8xbvekh">
-    <mxGraphModel dx="1240" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="Ffeupf_uvNNQWMsHSOil-0"/>
         <mxCell id="Ffeupf_uvNNQWMsHSOil-1" parent="Ffeupf_uvNNQWMsHSOil-0"/>
