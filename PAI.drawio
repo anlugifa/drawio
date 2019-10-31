@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-30T19:49:32.662Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" etag="_8JrLikkIJjAkurnj-60" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-31T12:02:52.451Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" etag="y14HYjYXS7UFuVHLDp63" version="12.1.8" type="github" pages="3">
   <diagram name="Carregamento CIF" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1108" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -22,13 +22,13 @@
         <mxCell id="WFyZggXA8h9RNTgOfeCm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-7" target="2b4e8129b02d487f-9">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xGCrMNvwIFCrV4-qwJGK-1" value="Envio p/ Transportadora" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.508;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fontColor=#FF0000;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-7" target="FQRfdCOzmHrhoMHAnc6x-1">
+        <mxCell id="xGCrMNvwIFCrV4-qwJGK-1" value="Envio p/ Transportadora &lt;br&gt;ZV49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.508;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fontColor=#FF0000;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-7" target="FQRfdCOzmHrhoMHAnc6x-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="2b4e8129b02d487f-7" value="SAP P72" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;fontStyle=1" parent="2b4e8129b02d487f-2" vertex="1">
           <mxGeometry x="260" y="37.99999999999997" width="70" height="37" as="geometry"/>
         </mxCell>
-        <mxCell id="WFyZggXA8h9RNTgOfeCm-3" value="Agendamento?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#FF0000;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-9" target="WFyZggXA8h9RNTgOfeCm-2">
+        <mxCell id="WFyZggXA8h9RNTgOfeCm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#FF0000;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-9" target="WFyZggXA8h9RNTgOfeCm-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="2b4e8129b02d487f-9" value="SAPTAS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;fontStyle=1" parent="2b4e8129b02d487f-2" vertex="1">
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Carregamento FOB" id="wvZqJDoXAs2KBbJLKaqx">
-    <mxGraphModel dx="868" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JmH2wS-UnPYUT30hO3oi-0"/>
         <mxCell id="JmH2wS-UnPYUT30hO3oi-1" parent="JmH2wS-UnPYUT30hO3oi-0"/>
