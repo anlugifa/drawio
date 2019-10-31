@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-31T13:10:32.529Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" etag="6hH8C49IrtAoZTsVi5Sl" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-31T13:13:45.836Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36" etag="Px0H-z68fr2xGVAK2Ndb" version="12.1.8" type="github" pages="3">
   <diagram name="Carregamento CIF" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="723" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Descarga" id="ZrFWQGwldFwGv8xbvekh">
-    <mxGraphModel dx="1108" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="Ffeupf_uvNNQWMsHSOil-0"/>
         <mxCell id="Ffeupf_uvNNQWMsHSOil-1" parent="Ffeupf_uvNNQWMsHSOil-0"/>
@@ -230,8 +230,8 @@
         <mxCell id="Ffeupf_uvNNQWMsHSOil-3" value="Raízen" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ffeupf_uvNNQWMsHSOil-2">
           <mxGeometry y="20" width="1120" height="210" as="geometry"/>
         </mxCell>
-        <mxCell id="Ffeupf_uvNNQWMsHSOil-6" value="Agendamento&lt;br&gt;Coleta" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="Ffeupf_uvNNQWMsHSOil-3">
-          <mxGeometry x="170" y="32" width="90" height="51" as="geometry"/>
+        <mxCell id="Ffeupf_uvNNQWMsHSOil-6" value="Portal&lt;br&gt;Coleta" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;fontStyle=1" vertex="1" parent="Ffeupf_uvNNQWMsHSOil-3">
+          <mxGeometry x="170" y="36" width="90" height="43" as="geometry"/>
         </mxCell>
         <mxCell id="Ffeupf_uvNNQWMsHSOil-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="Ffeupf_uvNNQWMsHSOil-3" source="Ffeupf_uvNNQWMsHSOil-9" target="Ffeupf_uvNNQWMsHSOil-11">
           <mxGeometry relative="1" as="geometry"/>
@@ -260,11 +260,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wOJjUUMjAA5zCkDcHgza-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="Ffeupf_uvNNQWMsHSOil-3" source="wOJjUUMjAA5zCkDcHgza-0" target="Ffeupf_uvNNQWMsHSOil-6">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="wOJjUUMjAA5zCkDcHgza-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Indica a placa&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="Ffeupf_uvNNQWMsHSOil-3" source="wOJjUUMjAA5zCkDcHgza-0" target="Ffeupf_uvNNQWMsHSOil-6">
+          <mxGeometry x="0.0179" y="18" relative="1" as="geometry">
+            <mxPoint y="1" as="offset"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="wOJjUUMjAA5zCkDcHgza-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Transportador&lt;br&gt;Faz Agendamento&lt;br&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;fontColor=#FF0000;" vertex="1" parent="Ffeupf_uvNNQWMsHSOil-3">
-          <mxGeometry x="80" y="37.5" width="20" height="40" as="geometry"/>
+        <mxCell id="wOJjUUMjAA5zCkDcHgza-0" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Transportador&lt;br&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;fontColor=#FF0000;" vertex="1" parent="Ffeupf_uvNNQWMsHSOil-3">
+          <mxGeometry x="40" y="37.5" width="20" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="QRpynmhRJXcV7qp3rdY5-1" value="Motorista" style="shape=mxgraph.signs.transportation.truck_7;html=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=10;fontColor=#FF0800;" vertex="1" parent="Ffeupf_uvNNQWMsHSOil-3">
           <mxGeometry x="1020" y="45" width="60" height="25" as="geometry"/>
