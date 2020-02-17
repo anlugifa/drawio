@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-17T22:22:14.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="slfpa48uU1AhD_42qhwO" version="12.7.1" type="github">
+<mxfile host="www.draw.io" modified="2020-02-17T22:22:40.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="o-lAocCwHOWNugrblnB3" version="12.7.1" type="github">
   <diagram id="ZTwRjpQaeGu7MBUoPaFl" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lp2ajLt_Ak6MV04k99ys-1" value="Estamos&lt;br&gt;Aqui!" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="100" height="60" as="geometry" />
+          <mxGeometry x="550" y="160" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
