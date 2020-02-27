@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T19:54:39.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="LnnpVZl35_wJm1vIb6l6" version="12.7.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-27T19:55:41.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="fm4jFmciLIhz6N59bHMi" version="12.7.8" type="github" pages="2">
   <diagram id="e-LRqLRTiXf35YGmx4cd" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C6Szy_IQ5Rw0MJGKLDC4" name="Page-2">
-    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kcO47oUieVtZL0AqgXoY-0" />
         <mxCell id="kcO47oUieVtZL0AqgXoY-1" parent="kcO47oUieVtZL0AqgXoY-0" />
@@ -146,7 +146,7 @@
             <mxPoint x="65" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kcO47oUieVtZL0AqgXoY-9" value="Liberação dos testes para a Victoria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kcO47oUieVtZL0AqgXoY-1">
+        <mxCell id="kcO47oUieVtZL0AqgXoY-9" value="Início Testes&lt;br&gt;da Victoria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kcO47oUieVtZL0AqgXoY-1">
           <mxGeometry x="15" y="408.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kcO47oUieVtZL0AqgXoY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="kcO47oUieVtZL0AqgXoY-1" target="kcO47oUieVtZL0AqgXoY-11">
