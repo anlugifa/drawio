@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T15:04:41.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="bW-b3t06ouq4TvUXsWI1" version="12.7.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-27T15:05:11.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="aX8pAtOXOlbxFRmexOCi" version="12.7.8" type="github">
   <diagram id="e-LRqLRTiXf35YGmx4cd" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="8wL47L3Zqj5WroCjasys-30" value="Client&lt;br&gt;Desktop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="540" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YFboItYC-bnIutgZn8XN-5" value="&lt;a href=&quot;https://apps.raizen.com/sicle&quot;&gt;https://apps.raizen.com/sicle&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="84" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
