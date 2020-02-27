@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-27T15:06:17.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="YpDHBhrE3e4IQJiqCHrU" version="12.7.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-27T15:08:03.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="MbRM0YZkPlKR2DQPT--u" version="12.7.8" type="github">
   <diagram id="e-LRqLRTiXf35YGmx4cd" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="YFboItYC-bnIutgZn8XN-5" value="&lt;a href=&quot;https://apps.raizen.com/sicle&quot;&gt;https://apps.raizen.com/sicle&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="84" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YFboItYC-bnIutgZn8XN-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_off;fillColor=#E6E6E6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="464" y="314" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YFboItYC-bnIutgZn8XN-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.switch_on;fillColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="237" y="314" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
