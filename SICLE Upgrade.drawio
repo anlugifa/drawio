@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-27T15:08:03.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="MbRM0YZkPlKR2DQPT--u" version="12.7.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-27T15:09:26.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="0gjBOCtPc5oIUv8lbScO" version="12.7.8" type="github">
   <diagram id="e-LRqLRTiXf35YGmx4cd" name="Page-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,13 +28,13 @@
         <mxCell id="8wL47L3Zqj5WroCjasys-7" value="User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="375" y="44" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8wL47L3Zqj5WroCjasys-10" value="- Novo JBoss&lt;br&gt;- Com NewRelic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="8wL47L3Zqj5WroCjasys-10" value="- JBoss 6.2&lt;br&gt;- Com NewRelic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="540" y="314" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8wL47L3Zqj5WroCjasys-11" value="&lt;ul&gt;&lt;li&gt;Usuários escolhidos para Rollout&lt;/li&gt;&lt;li&gt;Novo ícone no Citrix&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="460" y="160" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8wL47L3Zqj5WroCjasys-12" value="- JBoss Antigo&lt;br&gt;- Sem NewRelic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="8wL47L3Zqj5WroCjasys-12" value="- JBoss 1.41&lt;br&gt;- Sem NewRelic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="110" y="316" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8wL47L3Zqj5WroCjasys-22" value="Client&lt;br&gt;Desktop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
