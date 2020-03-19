@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T19:50:23.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="BH1IywiifEBnGtgjsqIs" version="12.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-03-19T19:56:14.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="xzAt7JzIDsl--90QhMBq" version="12.8.5" type="github" pages="4">
   <diagram id="HBN-gLy4DGY5trg6NG9f" name="COPI">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TERMINAL DC" id="kl2H2rWRJi9BnGij2C6r">
-    <mxGraphModel dx="1935" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3ridH7hZ-wgCiEHPCtQE-0" />
         <mxCell id="3ridH7hZ-wgCiEHPCtQE-1" parent="3ridH7hZ-wgCiEHPCtQE-0" />
@@ -336,7 +336,7 @@
         <mxCell id="5tJBa-48HLdfhVZw51lt-1" value="AZURE&lt;br&gt;SAPTAS (VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="3ridH7hZ-wgCiEHPCtQE-1">
           <mxGeometry x="70" y="5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3ridH7hZ-wgCiEHPCtQE-2" value="Modem3G" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="3ridH7hZ-wgCiEHPCtQE-1" source="xlu7C3ANWqAqK8mgwMWz-0" target="3ridH7hZ-wgCiEHPCtQE-4">
+        <mxCell id="3ridH7hZ-wgCiEHPCtQE-2" value="Modem3G" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="3ridH7hZ-wgCiEHPCtQE-1" source="xlu7C3ANWqAqK8mgwMWz-0" target="3ridH7hZ-wgCiEHPCtQE-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="490" as="sourcePoint" />
           </mxGeometry>
