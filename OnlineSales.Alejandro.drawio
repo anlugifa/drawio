@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T21:02:51.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="IlmaePDHwydxxe7zzvsa" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-16T21:13:08.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ECoUMA9pI5qWERGyjpWV" version="13.7.1" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
-    <mxGraphModel dx="4902" dy="1173" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3803" dy="670" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
             <mxPoint x="1419.5" y="538.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jS5UeziIzz8t74J8Ag5z-44" value="Endereço de Entrega" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="jS5UeziIzz8t74J8Ag5z-44" value="Endereço de Entrega" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1328" y="396" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jS5UeziIzz8t74J8Ag5z-46" value="* Mostrar o Endereço de Pagamento como Padrão.&lt;br&gt;* Buscar da API Economy os endereços cadastrados e permitir novo endereço" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;" parent="1" vertex="1">
