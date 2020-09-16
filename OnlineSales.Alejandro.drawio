@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T22:50:04.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="OakxALO1PIugWj8n5FxR" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-16T23:05:29.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="lC_W7-V3x0lTTnISmxjI" version="13.7.1" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="8749" dy="5303" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -707,7 +707,7 @@
           <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K8BTjExtuBlMBbfLbNbR-10" value="Realizar Alinhamento&lt;br style=&quot;font-size: 12px;&quot;&gt;TBD" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fontSize=12;align=center;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-50" y="290" width="200" height="180" as="geometry" />
+          <mxGeometry x="-50" y="280" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="K8BTjExtuBlMBbfLbNbR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="eeA8OCcnUGyq8BiIao9--1" source="K8BTjExtuBlMBbfLbNbR-15" target="K8BTjExtuBlMBbfLbNbR-18">
           <mxGeometry relative="1" as="geometry" />
