@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T15:21:04.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="xhOCLxLbjsCxnAi1RUC4" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-16T17:43:04.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="IztOdo8uoTDEM0DoCxCW" version="13.7.1" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
-    <mxGraphModel dx="2310" dy="670" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2553" dy="782" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="jS5UeziIzz8t74J8Ag5z-27" value="* Forecast para quantidade está disponível em BI.&lt;br&gt;* Existe uma frente de cadastro no  SF.&lt;br&gt;* Não será considerado no MVP" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="572" y="781.75" width="297" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jS5UeziIzz8t74J8Ag5z-31" value="&lt;div&gt;* Ver com Pricing uma lista de preços padrão com impostos já calculados.&lt;/div&gt;&lt;div&gt;* SKU: Utilizar o código do material SAP no gerenciamento dos produtos.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;spacingLeft=5;" parent="1" vertex="1">
+        <mxCell id="jS5UeziIzz8t74J8Ag5z-31" value="&lt;div&gt;* Ver com Pricing uma lista de preços padrão com impostos já calculados.&lt;/div&gt;&lt;div&gt;* SKU: Utilizar o código do material SAP no gerenciamento dos produtos.&lt;/div&gt;&lt;div&gt;* Utilização de Imposto Médio de MA para ser somado ao preço do Produto&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="638" y="477.5" width="481" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jS5UeziIzz8t74J8Ag5z-33" value="&lt;div&gt;MVP: DEFINIÇÃO: Trazer histórico de pedidos feitos em outras plataformas.&lt;/div&gt;&lt;div&gt;- Realizar sicronização ce pedidos com SAP: Baixa de pagamento e bloqueio.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;" parent="1" vertex="1">
