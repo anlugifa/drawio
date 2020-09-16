@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T18:28:58.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="A8e5mHzOp-1Fj-jeXTjn" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-16T18:33:57.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wTLMeVTkYOdm-Uyj3KIl" version="13.7.1" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="2553" dy="782" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,6 +175,9 @@
         <mxCell id="jS5UeziIzz8t74J8Ag5z-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" parent="1" source="jS5UeziIzz8t74J8Ag5z-56" target="jS5UeziIzz8t74J8Ag5z-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R43ezIsuh7eKpSxC0ER7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="jS5UeziIzz8t74J8Ag5z-56" target="R43ezIsuh7eKpSxC0ER7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jS5UeziIzz8t74J8Ag5z-56" value="Fechar Pedido" style="whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="1595" width="120" height="60" as="geometry" />
         </mxCell>
@@ -192,6 +195,9 @@
               <mxPoint x="437" y="1515" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R43ezIsuh7eKpSxC0ER7-5" value="Ingressar Pedido no SAP e mostrar o PO para o cliente" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#ffffff;fontStyle=0;strokeColor=#005700;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="572" y="1595" width="495" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
