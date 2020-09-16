@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T17:43:04.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="IztOdo8uoTDEM0DoCxCW" version="13.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-16T18:02:34.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="CCKWeS3ZluAYAQaHsra4" version="13.7.1" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="2553" dy="782" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,10 +176,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jS5UeziIzz8t74J8Ag5z-56" value="Fechar Pedido" style="whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="327" y="1503.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="327.5" y="1595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jS5UeziIzz8t74J8Ag5z-58" value="Meio de Pagamento:&amp;nbsp;&lt;br&gt;Gerar Boleto" style="whiteSpace=wrap;html=1;fontSize=13;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="277" y="1643.25" width="220" height="60" as="geometry" />
+          <mxGeometry x="277.5" y="1735" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R43ezIsuh7eKpSxC0ER7-2" value="* Verificar IE no Midas. Se IE inválida reiejtar PEDIDO." style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;spacingLeft=5;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="572" y="1485" width="496" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R43ezIsuh7eKpSxC0ER7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jS5UeziIzz8t74J8Ag5z-52" target="R43ezIsuh7eKpSxC0ER7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="1485.0933333333335" as="sourcePoint" />
+            <mxPoint x="559.5" y="1485.0049999999994" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="437" y="1515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
