@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T20:48:37.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="bzC7cmaqP-IidmlDkKre" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:52:23.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="FzO1SFI2SDFIycavTM0G" version="13.7.2" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -201,13 +201,13 @@
         <mxCell id="SC3JEf4WINsSZaT9sH8f-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-15" target="SC3JEf4WINsSZaT9sH8f-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-14" target="SC3JEf4WINsSZaT9sH8f-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZyZWIug1i_7abqR-xJH1-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-14" target="ZyZWIug1i_7abqR-xJH1-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-14" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Navegação em Produtos&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;(COM/SEM visualização de preços)&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontStyle=0;fontSize=14;fontFamily=Helvetica;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="k7qJe9tMdCRVFwdtE0tW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="SC3JEf4WINsSZaT9sH8f-14" target="k7qJe9tMdCRVFwdtE0tW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC3JEf4WINsSZaT9sH8f-14" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Navegação em Produtos&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;(SEM visualização de preços)&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontStyle=0;fontSize=14;fontFamily=Helvetica;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="92.5" width="340" height="85" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-15" value="Checkout&lt;br style=&quot;font-size: 14px;&quot;&gt;(Comprar Produto)" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -262,11 +262,14 @@
         <mxCell id="0uTU3GbLn5igYx63vfDj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-33" target="SC3JEf4WINsSZaT9sH8f-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-33" value="Ver carrinho e ajustar Pedido" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="k7qJe9tMdCRVFwdtE0tW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="SC3JEf4WINsSZaT9sH8f-33" target="SC3JEf4WINsSZaT9sH8f-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC3JEf4WINsSZaT9sH8f-33" value="Ver carrinho, PREÇO e ajustar Pedido" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="752" width="154" height="121" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-35" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;* Lista de preços de pricing alimenta os produtos disponíveis.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* SKU: Utilizar o código do material SAP no gerenciamento dos produtos.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;* Utilização de Imposto Médio de MA estará no preço final do Produto atualizado por Pricing&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-792" y="98.25" width="539" height="73.5" as="geometry" />
+          <mxGeometry x="-836" y="678.5" width="539" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-36" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;MVP: DEFINIÇÃO: Trazer histórico de pedidos feitos em outras plataformas.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;- Realizar sicronização ce pedidos com SAP: Baixa de pagamento e bloqueio.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-2717" y="737" width="483" height="93.5" as="geometry" />
@@ -296,7 +299,7 @@
           <mxGeometry x="-863" y="1155.0000000000002" width="452" height="73.75" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-48" value="* Mostrar o Endereço de Pagamento como Padrão.&lt;br style=&quot;font-size: 14px;&quot;&gt;* Buscar da API Economy os endereços cadastrados e permitir novo endereço&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;* Verificar com Marcus de Master Data sobre endereços de entrega diferentes." style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fontColor=#ffffff;align=left;fillColor=#FF0000;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-836" y="776" width="517" height="73" as="geometry" />
+          <mxGeometry x="-836" y="776" width="539" height="73" as="geometry" />
         </mxCell>
         <mxCell id="ZyZWIug1i_7abqR-xJH1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-52" target="ZyZWIug1i_7abqR-xJH1-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -618,6 +621,9 @@
         </mxCell>
         <mxCell id="ZyZWIug1i_7abqR-xJH1-73" value="Selecionar Quantidades de &lt;br style=&quot;font-size: 14px;&quot;&gt;Caminhões 38T e 46T" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="388.5" width="319" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7qJe9tMdCRVFwdtE0tW-4" value="Tornar configurável MOSTRAR Preço sem Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-792" y="105" width="363" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
