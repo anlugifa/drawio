@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T20:53:59.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0YflP60rsGMFe02S10Te" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T21:19:20.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="qh0h0WTxlwb9meQh4pDH" version="13.7.2" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
-    <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6340" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,7 +284,7 @@
           <mxGeometry x="-1107.5" y="1020.3800000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-40" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;* MVP: Mostra somente opção de Big Bag, preparando no futuro para novas opções.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* Ao alterar embalagem, será alterado o SKU.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;* Tipo de embalagem está configurada na lista de preços.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;spacingLeft=5;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-836" y="1020.38" width="539" height="60" as="geometry" />
+          <mxGeometry x="-863" y="1020.38" width="539" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-43" target="SC3JEf4WINsSZaT9sH8f-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry x="-1135.5" y="1161.8700000000001" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-44" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;* MVP: Permitir &quot;Delivery Date&quot; para cada item do Pedido.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;- Data Mínima: segunda segunda-feira após o vencimento do boleto. (S+2)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;- ETA: Semana aproximada para o Delivery Date.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;- MVP: Não teremos &quot;Location&quot; para cada item do pedido.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-863" y="1155.0000000000002" width="452" height="73.75" as="geometry" />
+          <mxGeometry x="-862" y="1132.18" width="566" height="119.37" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-48" value="* Mostrar o Endereço de Pagamento como Padrão.&lt;br style=&quot;font-size: 14px;&quot;&gt;* Buscar da API Economy os endereços cadastrados e permitir novo endereço&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;* Verificar com Marcus de Master Data sobre endereços de entrega diferentes." style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fontColor=#ffffff;align=left;fillColor=#FF0000;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-836" y="776" width="539" height="73" as="geometry" />
@@ -451,7 +451,7 @@
           <mxGeometry x="-1129" y="918.88" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0uTU3GbLn5igYx63vfDj-18" value="BUSCA FRETE NO SAP" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fontStyle=0;align=center;strokeColor=#432D57;fillColor=#76608a;spacingLeft=5;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-707.75" y="1259.5100000000002" width="185.5" height="60" as="geometry" />
+          <mxGeometry x="-707.75" y="1276" width="185.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qlnjHwctC9TvnMz6O5r_-1" value="integração SAP (Gerar Boleto)" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-862" y="1743.88" width="120" height="60" as="geometry" />
@@ -510,22 +510,10 @@
         <mxCell id="Llw6ylmcB_U-CpbHDsIA-37" value="* Forecast para quantidade está disponível em BI.&lt;br style=&quot;font-size: 14px;&quot;&gt;* Existe uma frente de cadastro no  SF.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;* TBD: DEFINIR COMO ALIMENTAR O FORECAST NO E-COMMERCE (QUANTIDADE MÁXIMA PERMITIDA)" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;align=left;spacingLeft=5;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-792" y="368.5" width="539" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="Llw6ylmcB_U-CpbHDsIA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;fontFamily=Helvetica;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-959.5" y="1191.9066666666665" as="sourcePoint" />
-            <mxPoint x="-863" y="1191.9066666666665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Llw6ylmcB_U-CpbHDsIA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;fontFamily=Helvetica;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-947.5" y="1431.1249999999995" as="sourcePoint" />
             <mxPoint x="-863" y="1431.1249999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Llw6ylmcB_U-CpbHDsIA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-615" y="1379.5" as="sourcePoint" />
-            <mxPoint x="-615" y="1319.5100000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Llw6ylmcB_U-CpbHDsIA-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" edge="1">
