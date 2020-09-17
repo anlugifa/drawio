@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T20:05:31.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="gPUlAHhti68RgRMGKW_v" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:10:35.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JW0CxXPFQzIInjX3jP-S" version="13.7.2" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
-    <mxGraphModel dx="6340" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
         <mxCell id="SC3JEf4WINsSZaT9sH8f-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-8" target="SC3JEf4WINsSZaT9sH8f-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Cidade &lt;br style=&quot;font-size: 14px;&quot;&gt;sem Frete&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="SC3JEf4WINsSZaT9sH8f-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Cidade &lt;br style=&quot;font-size: 14px&quot;&gt;s\ Frete&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-1115" y="-64.5" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Redirecionar para Centro de Controle de Leads&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -207,7 +207,7 @@
         <mxCell id="ZyZWIug1i_7abqR-xJH1-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-14" target="ZyZWIug1i_7abqR-xJH1-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-14" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Navegação em Produtos&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="SC3JEf4WINsSZaT9sH8f-14" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Navegação em Produtos&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;(COM\SEM visualização de preços)&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontStyle=0;fontSize=14;fontFamily=Helvetica;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="92.5" width="340" height="85" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-15" value="Checkout&lt;br style=&quot;font-size: 14px;&quot;&gt;(Comprar Produto)" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
