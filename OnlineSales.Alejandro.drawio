@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T20:10:35.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JW0CxXPFQzIInjX3jP-S" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-17T20:11:12.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="AAAqlP8SiPP-1iEra6Vb" version="13.7.2" type="github" pages="2">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -186,10 +186,10 @@
         <mxCell id="SC3JEf4WINsSZaT9sH8f-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-8" target="SC3JEf4WINsSZaT9sH8f-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-8" target="SC3JEf4WINsSZaT9sH8f-14" edge="1">
+        <mxCell id="SC3JEf4WINsSZaT9sH8f-7" value="S" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="SC3JEf4WINsSZaT9sH8f-8" target="SC3JEf4WINsSZaT9sH8f-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SC3JEf4WINsSZaT9sH8f-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Cidade &lt;br style=&quot;font-size: 14px&quot;&gt;s\ Frete&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="SC3JEf4WINsSZaT9sH8f-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Cidade &lt;br style=&quot;font-size: 14px&quot;&gt;c\ Frete&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-1115" y="-64.5" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SC3JEf4WINsSZaT9sH8f-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Redirecionar para Centro de Controle de Leads&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -460,7 +460,7 @@
             <mxPoint x="-1050" y="-64.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Llw6ylmcB_U-CpbHDsIA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" edge="1">
+        <mxCell id="Llw6ylmcB_U-CpbHDsIA-6" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-985" y="-19.5" as="sourcePoint" />
             <mxPoint x="-900" y="-19.5" as="targetPoint" />
