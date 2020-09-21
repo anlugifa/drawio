@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T12:14:47.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="WEo1Ugg9cmrgeL6rVQbh" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-21T12:32:13.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MQwc5txzujbe7swIS3Mg" version="13.7.3" type="github" pages="3">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
-    <mxGraphModel dx="6709" dy="4406" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,6 +745,26 @@
         </mxCell>
         <mxCell id="K8BTjExtuBlMBbfLbNbR-35" value="Imprime PDF" style="whiteSpace=wrap;html=1;rounded=0;fontSize=12;fontColor=#ffffff;strokeColor=#3A5431;fillColor=#6d8764;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
           <mxGeometry x="420" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1lhvXZ9s2YrH5QTF-6If" name="Login">
+    <mxGraphModel dx="1146" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Mm4b0fSG3VtpWS0iAW72-0" />
+        <mxCell id="Mm4b0fSG3VtpWS0iAW72-1" parent="Mm4b0fSG3VtpWS0iAW72-0" />
+        <mxCell id="Mm4b0fSG3VtpWS0iAW72-2" value="OnlineSales" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
+          <mxGeometry x="40" y="90" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Mm4b0fSG3VtpWS0iAW72-3" value="Mule" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
+          <mxGeometry x="250" y="90" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Mm4b0fSG3VtpWS0iAW72-4" value="SAP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
+          <mxGeometry x="490" y="90" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Mm4b0fSG3VtpWS0iAW72-5" value="Midas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
+          <mxGeometry x="690" y="90" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
