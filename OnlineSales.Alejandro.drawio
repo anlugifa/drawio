@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T12:58:11.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8YSVnRaUUy6WMsQ_h3jh" version="13.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-21T13:07:18.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HCCR-juyOPPM6LboJKbc" version="13.7.3" type="github" pages="3">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6340" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -459,7 +459,10 @@
           <mxGeometry x="-1129" y="918.88" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0uTU3GbLn5igYx63vfDj-18" value="BUSCA FRETE NO SAP&lt;br&gt;(Nova API)" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fontStyle=1;align=center;strokeColor=#432D57;fillColor=#76608a;spacingLeft=5;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-707.75" y="1276" width="185.5" height="60" as="geometry" />
+          <mxGeometry x="-309.5" y="1401.1200000000001" width="185.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0cm0jAxPpG9FURB-rz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="qlnjHwctC9TvnMz6O5r_-1" target="9k0cm0jAxPpG9FURB-rz-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qlnjHwctC9TvnMz6O5r_-1" value="integração SAP (Gerar Boleto)" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-862" y="1743.88" width="202" height="60" as="geometry" />
@@ -624,8 +627,11 @@
         <mxCell id="w89-vKPUMR_P6JWfKxBr-1" value="Busca Pedidos SAP (Online)" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-2431" y="788.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sLcBwwiViFwoJUJywKog-1" value="1. Ao registrar novo cliente, buscar o CNPJ raiz no SAP e listar CNPJs cadastrados.&lt;br&gt;2. Se CNPJ não aparecer, cadastrar novo CNPJ.&lt;br&gt;3. Se CNPJ já cadastrado, associar o CNPJ Raiz na conta do OnlineSales e cadastrar nova conta no SAP para o novo CNPJ." style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=0;align=left;strokeColor=#C73500;fillColor=#fa6800;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="-1969" y="1272.41" width="484" height="102.59" as="geometry" />
+        <mxCell id="9k0cm0jAxPpG9FURB-rz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="sLcBwwiViFwoJUJywKog-1" target="9k0cm0jAxPpG9FURB-rz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLcBwwiViFwoJUJywKog-1" value="1. Ao registrar novo cliente, buscar o CNPJ raiz no SAP e listar CNPJs cadastrados.&lt;br&gt;2. Se CNPJ não aparecer, cadastrar novo CNPJ.&lt;br&gt;3. Se CNPJ já cadastrado, associar o CNPJ Raiz na conta do OnlineSales e cadastrar nova conta no SAP para o novo CNPJ.&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=0;align=left;strokeColor=#C73500;fillColor=#fa6800;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="-1969" y="1272.41" width="484" height="113.59" as="geometry" />
         </mxCell>
         <mxCell id="sLcBwwiViFwoJUJywKog-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLcBwwiViFwoJUJywKog-6" target="SC3JEf4WINsSZaT9sH8f-23">
           <mxGeometry relative="1" as="geometry" />
@@ -644,6 +650,12 @@
         </mxCell>
         <mxCell id="sLcBwwiViFwoJUJywKog-16" value="&lt;span&gt;Roadmap:&lt;br&gt;Novo campo na Order para PO Online e revisar relatórios &#39;Z&#39;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=1;strokeColor=#432D57;fillColor=#76608a;" vertex="1" parent="1">
           <mxGeometry x="-444" y="1600.88" width="301" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0cm0jAxPpG9FURB-rz-1" value="Verificar&amp;nbsp; se o PDF do Pedido não será encaminhado automaticamente para o respresentante" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=1;strokeColor=#B20000;fillColor=#e51400;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="1743.88" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9k0cm0jAxPpG9FURB-rz-3" value="&lt;span&gt;Para clientes já existentes, validar o cadastro do e-mail que está no SAP e atualizar no SAP se necessário.&lt;br&gt;&lt;br&gt;Validar com Comercial se isso não impacta outros pedidos.&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=0;align=left;strokeColor=#B20000;fillColor=#e51400;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="-1919.5" y="1461.13" width="385" height="78.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
