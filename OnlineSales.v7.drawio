@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T18:06:03.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="woaITYogaKySDJ6sb_2U" version="13.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-21T18:08:46.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="hCsm4gjBMe6ml9n_2i_u" version="13.7.3" type="github" pages="3">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6599" dy="4171" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -568,7 +568,7 @@
             <mxPoint x="-3620" y="968.18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Llw6ylmcB_U-CpbHDsIA-104" value="Cancelamento&lt;br style=&quot;font-size: 14px;&quot;&gt;(Abertura SNOW e Atualiza Status automático)&lt;br style=&quot;font-size: 14px;&quot;&gt;- VALIDAR COM COE" style="whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="Llw6ylmcB_U-CpbHDsIA-104" value="Cancelamento&lt;br style=&quot;font-size: 14px;&quot;&gt;(Abertura SNOW e Atualiza Status automático)&lt;br style=&quot;font-size: 14px;&quot;&gt;- VALIDAR COM COE" style="whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-3718" y="1317.31" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZyZWIug1i_7abqR-xJH1-6" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Helvetica;" parent="1" source="ZyZWIug1i_7abqR-xJH1-1" target="ZyZWIug1i_7abqR-xJH1-5" edge="1">
