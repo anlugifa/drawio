@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T12:32:13.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MQwc5txzujbe7swIS3Mg" version="13.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-21T12:34:09.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4PjP0w5X9hzB2ytkxfAG" version="13.7.3" type="github" pages="3">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -750,7 +750,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1lhvXZ9s2YrH5QTF-6If" name="Login">
-    <mxGraphModel dx="1146" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-0" />
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-1" parent="Mm4b0fSG3VtpWS0iAW72-0" />
@@ -765,6 +765,9 @@
         </mxCell>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-5" value="Midas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
           <mxGeometry x="690" y="90" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lLG8N8mpX2kmjQcWddOU-1" value="Pesquisa Raiz CNPJ: &lt;font color=&quot;#ff0000&quot;&gt;111.111.111&lt;/font&gt;/0001-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
+          <mxGeometry x="40" y="30" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
