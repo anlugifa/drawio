@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T18:01:48.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="mFfq8yQtQxui0V6ryzvL" version="13.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-21T18:02:15.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8JpJpEaM76hWx99M5Xax" version="13.7.3" type="github" pages="3">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6633" dy="4211" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -834,11 +834,11 @@
         <mxCell id="soCsoXWZtLqGXEpcujwh-1" value="Comunicaçao Via Whatsapp" style="whiteSpace=wrap;html=1;rounded=0;fontSize=14;fontColor=#ffffff;strokeColor=#B20000;fillColor=#e51400;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
           <mxGeometry x="-960" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="soCsoXWZtLqGXEpcujwh-4" value="Contra Proposta" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="eeA8OCcnUGyq8BiIao9--1" source="soCsoXWZtLqGXEpcujwh-3" target="tvkRK-qn5aXQCbiaugHN-7">
+        <mxCell id="soCsoXWZtLqGXEpcujwh-4" value="Contra Proposta" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="eeA8OCcnUGyq8BiIao9--1" source="soCsoXWZtLqGXEpcujwh-3" target="tvkRK-qn5aXQCbiaugHN-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soCsoXWZtLqGXEpcujwh-3" value="Concierge" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-915" y="625" width="30" height="60" as="geometry" />
+          <mxGeometry x="-915" y="610" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
