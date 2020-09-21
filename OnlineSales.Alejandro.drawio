@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T12:34:09.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4PjP0w5X9hzB2ytkxfAG" version="13.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-21T12:38:04.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="9pk0BG-ckWxpDtFhnCyt" version="13.7.3" type="github" pages="3">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
-    <mxGraphModel dx="6063" dy="3945" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6340" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,6 +438,9 @@
         <mxCell id="53-n7_swVfXgAftsPMF5-4" value="Ingressar Pedido no SAP e mostrar/salvar o PO no portal para o cliente&lt;br style=&quot;font-size: 14px;&quot;&gt;(Classificar Pedido como Online e revisar relatórios &#39;Z&#39;)" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=0;strokeColor=#432D57;fillColor=#76608a;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-862" y="1600.88" width="495" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sLcBwwiViFwoJUJywKog-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0uTU3GbLn5igYx63vfDj-3" target="sLcBwwiViFwoJUJywKog-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0uTU3GbLn5igYx63vfDj-3" value="MVP: Base Local: CNPJ\CPF\IE\Senha&lt;br style=&quot;font-size: 14px&quot;&gt;Outras infos serão carregadas no SAP.&lt;br&gt;&lt;br&gt;IE: Obrigatória&lt;br&gt;Identifica o CNPJ Raiz para consulta de todos os CNPJs cadastrados no SAP.&lt;br&gt;* Informar que CNPJ fora do estado do &quot;MA&quot; não poderá receber entrega.&lt;br&gt;* Permitir criação de nova conta\endereço.&lt;br&gt;&lt;br&gt;Não será permitido alterar o endereço do código de cobrança cadastrado." style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;align=left;spacingLeft=5;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-1980" y="921.19" width="506" height="200.81" as="geometry" />
         </mxCell>
@@ -616,6 +619,9 @@
         <mxCell id="w89-vKPUMR_P6JWfKxBr-1" value="Sincroniza SAP" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-2154" y="490.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sLcBwwiViFwoJUJywKog-1" value="1. Ao registrar novo cliente, buscar o CNPJ raiz no SAP e listar CNPJs cadastrados.&lt;br&gt;2. Se CNPJ não aparecer, cadastrar novo CNPJ.&lt;br&gt;3. Se CNPJ já cadastrado, associar o CNPJ Raiz na conta do OnlineSales e cadastrar nova conta no SAP para o novo CNPJ." style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#ffffff;fontStyle=0;align=left;strokeColor=#C73500;fillColor=#fa6800;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="-1969" y="1272.41" width="484" height="91.59" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -767,7 +773,7 @@
           <mxGeometry x="690" y="90" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="lLG8N8mpX2kmjQcWddOU-1" value="Pesquisa Raiz CNPJ: &lt;font color=&quot;#ff0000&quot;&gt;111.111.111&lt;/font&gt;/0001-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
-          <mxGeometry x="40" y="30" width="240" height="20" as="geometry" />
+          <mxGeometry x="40" y="40" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
