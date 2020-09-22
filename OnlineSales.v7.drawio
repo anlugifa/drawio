@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T17:42:48.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RF2-hG81A5mNsmaJI4Ad" version="13.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-22T17:44:15.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Sk4txrpA0d7xrKKSvdRX" version="13.7.3" type="github" pages="7">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6269" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -673,7 +673,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F6C4VkJwRCMh--I10GQn" name="Entrega">
-    <mxGraphModel dx="2826" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eeA8OCcnUGyq8BiIao9--0" />
         <mxCell id="eeA8OCcnUGyq8BiIao9--1" parent="eeA8OCcnUGyq8BiIao9--0" />
@@ -874,7 +874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1lhvXZ9s2YrH5QTF-6If" name="Login">
-    <mxGraphModel dx="1947" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-0" />
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-1" parent="Mm4b0fSG3VtpWS0iAW72-0" />
@@ -928,7 +928,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New Client" id="Us-eHQtzrGlMch0Gkf2N">
-    <mxGraphModel dx="2176" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-0" />
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-1" parent="NXz4_VIbAhhR2ZG-VLtB-0" />
