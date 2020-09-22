@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T17:44:15.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Sk4txrpA0d7xrKKSvdRX" version="13.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-22T17:45:34.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PYZOO7tJyM8gy99ro-so" version="13.7.3" type="github" pages="7">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6269" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -673,7 +673,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F6C4VkJwRCMh--I10GQn" name="Entrega">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3291" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eeA8OCcnUGyq8BiIao9--0" />
         <mxCell id="eeA8OCcnUGyq8BiIao9--1" parent="eeA8OCcnUGyq8BiIao9--0" />
@@ -853,28 +853,28 @@
           <mxGeometry x="-915" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RqVQ8ri2Seuu3ZkRmksd-0" value="&lt;div style=&quot;font-size: 14px&quot;&gt;REGRA DE NEGÓCIO&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;strokeColor=#C73500;fillColor=#fa6800;fontColor=#ffffff;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-680" y="100" width="275" height="35.19" as="geometry" />
+          <mxGeometry x="-640" y="100" width="235" height="35.19" as="geometry" />
         </mxCell>
         <mxCell id="RqVQ8ri2Seuu3ZkRmksd-1" value="Interface Outros Sistemas" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-680" y="154.19000000000005" width="275" height="36" as="geometry" />
+          <mxGeometry x="-640" y="154.19" width="235" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RqVQ8ri2Seuu3ZkRmksd-2" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; font-size: 14px&quot;&gt;&lt;b&gt;PENDENTE&lt;/b&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontStyle=0;fontSize=14;fontFamily=Helvetica;fontColor=#ffffff;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-680" y="210" width="275" height="33" as="geometry" />
+          <mxGeometry x="-640" y="210" width="235" height="33" as="geometry" />
         </mxCell>
         <mxCell id="RqVQ8ri2Seuu3ZkRmksd-3" value="SAP" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Helvetica;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-680" y="40" width="275" height="38" as="geometry" />
+          <mxGeometry x="-640" y="40" width="235" height="38" as="geometry" />
         </mxCell>
         <mxCell id="RqVQ8ri2Seuu3ZkRmksd-4" value="Portal" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeColor=#3A5431;fillColor=#6d8764;fontFamily=Helvetica;fontColor=#ffffff;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-375" y="40" width="165" height="38" as="geometry" />
+          <mxGeometry x="-370" y="40" width="165" height="38" as="geometry" />
         </mxCell>
         <mxCell id="RqVQ8ri2Seuu3ZkRmksd-5" value="Business" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;strokeColor=#36393d;fillColor=#cdeb8b;fontFamily=Helvetica;" vertex="1" parent="eeA8OCcnUGyq8BiIao9--1">
-          <mxGeometry x="-375" y="98.6" width="165" height="38" as="geometry" />
+          <mxGeometry x="-370" y="101" width="165" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="1lhvXZ9s2YrH5QTF-6If" name="Login">
-    <mxGraphModel dx="1782" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-0" />
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-1" parent="Mm4b0fSG3VtpWS0iAW72-0" />
@@ -928,7 +928,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New Client" id="Us-eHQtzrGlMch0Gkf2N">
-    <mxGraphModel dx="1976" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2176" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-0" />
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-1" parent="NXz4_VIbAhhR2ZG-VLtB-0" />
