@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T13:38:53.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="koBC2SiPY4bfnmCViaAX" version="13.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-22T13:39:12.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="uwB2_0l6WIjZcyW4Ft8L" version="13.7.3" type="github" pages="4">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6340" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -910,14 +910,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New Client" id="Us-eHQtzrGlMch0Gkf2N">
-    <mxGraphModel dx="2176" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2439" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-0" />
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-1" parent="NXz4_VIbAhhR2ZG-VLtB-0" />
-        <mxCell id="_RRPGWK9oQausp720Slz-12" value="if (clients = 0 or not found)" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=90;height=31;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
+        <mxCell id="_RRPGWK9oQausp720Slz-12" value="if (clients = 0 or not found)" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=90;height=31;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="-330" y="630" width="580" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="_RRPGWK9oQausp720Slz-7" value="if (clients&amp;gt;0)" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=90;height=31;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
+        <mxCell id="_RRPGWK9oQausp720Slz-7" value="if (clients&amp;gt;0)" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=10;width=90;height=31;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="-330" y="439" width="580" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-2" value="OnlineSales" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
