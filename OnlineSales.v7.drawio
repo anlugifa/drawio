@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T17:32:05.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QAK3K6irxHf1CGw2kFt1" version="13.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-22T17:33:41.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_FAIspN7sdplbWH5ZR3t" version="13.7.3" type="github" pages="7">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6029" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New Client" id="Us-eHQtzrGlMch0Gkf2N">
-    <mxGraphModel dx="2176" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-0" />
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-1" parent="NXz4_VIbAhhR2ZG-VLtB-0" />
@@ -926,10 +926,10 @@
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-3" value="Mule" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="260" y="80" width="100" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="_RRPGWK9oQausp720Slz-17" value="&lt;font style=&quot;font-size: 11px&quot;&gt;search_status (cnpj, IE)&lt;/font&gt;" style="endArrow=classic;html=1;fontSize=8;" edge="1" parent="NXz4_VIbAhhR2ZG-VLtB-3" target="NXz4_VIbAhhR2ZG-VLtB-5">
+        <mxCell id="_RRPGWK9oQausp720Slz-17" value="&lt;font style=&quot;font-size: 11px&quot;&gt;search_status (cnpj, IE)&lt;/font&gt;" style="endArrow=classic;html=1;fontSize=8;" edge="1" parent="NXz4_VIbAhhR2ZG-VLtB-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210.0033333333335" y="630" as="sourcePoint" />
-            <mxPoint x="74.82999999999998" y="630" as="targetPoint" />
+            <mxPoint x="459.5" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-94.67000000000002" y="630" />
               <mxPoint x="-24.670000000000016" y="630" />
@@ -938,12 +938,6 @@
         </mxCell>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-4" value="SAP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="490" y="80" width="100" height="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="NXz4_VIbAhhR2ZG-VLtB-5" value="Midas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
-          <mxGeometry x="670" y="80" width="100" height="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="NXz4_VIbAhhR2ZG-VLtB-6" value="Search root CNPJ: &lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 11px;&quot;&gt;111.111.111&lt;/font&gt;/0001-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
-          <mxGeometry x="310" y="260" width="230" as="geometry" />
         </mxCell>
         <mxCell id="NXz4_VIbAhhR2ZG-VLtB-7" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="-295" y="80" width="185" height="1040" as="geometry" />
@@ -1088,8 +1082,8 @@
         <mxCell id="RSXtVzNdFcNbYGPEBHCV-0" value="Name:&lt;br&gt;CNPJ:&lt;br&gt;IE:&lt;br&gt;SHIPTO&lt;br&gt;BILLTO:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RSXtVzNdFcNbYGPEBHCV-1" value="Filter only CNPJ/IE not blocked" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;align=left;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
-          <mxGeometry x="550" y="310" width="100" height="40" as="geometry" />
+        <mxCell id="RSXtVzNdFcNbYGPEBHCV-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Filter only CNPJ/IE not blocked&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;Search root CNPJ:&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 10px ; text-align: center&quot;&gt;111.111.111&lt;/font&gt;&lt;span style=&quot;text-align: center&quot;&gt;/XXXX-XX&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;align=left;fillColor=#fa6800;strokeColor=#C73500;fontColor=#FFFFFF;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
+          <mxGeometry x="550" y="260" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSXtVzNdFcNbYGPEBHCV-2" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Master data: mandatory fields&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;align=left;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="NXz4_VIbAhhR2ZG-VLtB-1">
           <mxGeometry x="-130" y="690" width="100" height="40" as="geometry" />
