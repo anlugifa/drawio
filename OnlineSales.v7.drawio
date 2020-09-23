@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T17:45:34.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="PYZOO7tJyM8gy99ro-so" version="13.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-23T18:11:29.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-TE7zEHMBGtza6obWHCA" version="13.7.3" type="github" pages="7">
   <diagram id="v70nW824M8R4AOz3LLfw" name="OrderEntry">
     <mxGraphModel dx="6269" dy="4074" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -874,24 +874,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1lhvXZ9s2YrH5QTF-6If" name="Login">
-    <mxGraphModel dx="1947" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1759" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-0" />
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-1" parent="Mm4b0fSG3VtpWS0iAW72-0" />
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-2" value="OnlineSales" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="Mm4b0fSG3VtpWS0iAW72-1" vertex="1">
-          <mxGeometry x="40" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="40" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-3" value="Mule" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="Mm4b0fSG3VtpWS0iAW72-1" vertex="1">
-          <mxGeometry x="250" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="250" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Mm4b0fSG3VtpWS0iAW72-4" value="SAP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="Mm4b0fSG3VtpWS0iAW72-1" vertex="1">
-          <mxGeometry x="490" y="80" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Mm4b0fSG3VtpWS0iAW72-5" value="Midas" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="Mm4b0fSG3VtpWS0iAW72-1" vertex="1">
-          <mxGeometry x="670" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="490" y="80" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="o4vdpWHoC_WDcFpM8mZl-1" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
-          <mxGeometry x="-170" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="-170" y="80" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="o4vdpWHoC_WDcFpM8mZl-2" value="login(email, pwd)" style="endArrow=classic;html=1;" edge="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -923,6 +920,37 @@
         </mxCell>
         <mxCell id="o4vdpWHoC_WDcFpM8mZl-6" value="Login: Client already subscribed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;fontStyle=1" vertex="1" parent="Mm4b0fSG3VtpWS0iAW72-1">
           <mxGeometry x="-340" y="-20" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LWE8scjPSrFQ2XT-kQu-1" value="view_order()" style="endArrow=classic;html=1;" edge="1" parent="Mm4b0fSG3VtpWS0iAW72-1" target="Mm4b0fSG3VtpWS0iAW72-2">
+          <mxGeometry x="0.2458" y="-30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="360" as="sourcePoint" />
+            <mxPoint x="80" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10.5" y="360" />
+            </Array>
+            <mxPoint x="-30" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3LWE8scjPSrFQ2XT-kQu-2" value="sync_order(VBELN)" style="endArrow=classic;html=1;" edge="1" parent="Mm4b0fSG3VtpWS0iAW72-1" source="Mm4b0fSG3VtpWS0iAW72-2" target="Mm4b0fSG3VtpWS0iAW72-4">
+          <mxGeometry x="-0.021" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="390" as="sourcePoint" />
+            <mxPoint x="309.5" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230.5" y="390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3LWE8scjPSrFQ2XT-kQu-3" value="return order" style="endArrow=classic;html=1;" edge="1" parent="Mm4b0fSG3VtpWS0iAW72-1" source="Mm4b0fSG3VtpWS0iAW72-4" target="Mm4b0fSG3VtpWS0iAW72-2">
+          <mxGeometry x="0.0655" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99.92857142857133" y="400" as="sourcePoint" />
+            <mxPoint x="549.5" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="430" />
+              <mxPoint x="230" y="430" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1381,7 +1409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Placing Order" id="-dmp4fsl8yNDGfMoRBZq">
-    <mxGraphModel dx="1976" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2176" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HIGY0JZhwoenhFULP7UG-0" />
         <mxCell id="HIGY0JZhwoenhFULP7UG-1" parent="HIGY0JZhwoenhFULP7UG-0" />
@@ -1495,7 +1523,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L-qOKDD_clSSnO9pKXcJ-1" value="Create new field to flag orders coming from ECom.&lt;br&gt;&lt;br&gt;Include new field in &#39;Z&#39; reports.&lt;br&gt;Exclude orders from Rebates?&lt;br&gt;What CTC should we consider when placing order?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#ffffff;align=left;fillColor=#fa6800;strokeColor=#C73500;fontStyle=1;spacingLeft=5;" vertex="1" parent="HIGY0JZhwoenhFULP7UG-1">
+        <mxCell id="L-qOKDD_clSSnO9pKXcJ-1" value="Create new field to flag orders coming from ECom.&lt;br&gt;&lt;br&gt;Include new field in &#39;Z&#39; reports." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#ffffff;align=left;fillColor=#fa6800;strokeColor=#C73500;fontStyle=1;spacingLeft=5;" vertex="1" parent="HIGY0JZhwoenhFULP7UG-1">
           <mxGeometry x="560" y="300" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L-qOKDD_clSSnO9pKXcJ-3" value="view_boleto()" style="endArrow=classic;html=1;fontSize=12;fontStyle=1;fontColor=#0000000;" edge="1" parent="HIGY0JZhwoenhFULP7UG-1" source="HIGY0JZhwoenhFULP7UG-12" target="HIGY0JZhwoenhFULP7UG-7">
