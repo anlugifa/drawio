@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T14:58:57.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="RrVH-4kspc7RIhf_HNkn" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T15:01:42.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="AZGfVBpQIe-goOaGgYUn" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="834" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,9 @@
           <mxGeometry x="450" y="415" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7eqDrlKUqZi-h1YKjJF8-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7eqDrlKUqZi-h1YKjJF8-26" target="7eqDrlKUqZi-h1YKjJF8-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YGY4iPS6tHu55Eu-SYGo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7eqDrlKUqZi-h1YKjJF8-26" target="YGY4iPS6tHu55Eu-SYGo-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7eqDrlKUqZi-h1YKjJF8-26" value="Contact clicks&amp;nbsp;&lt;br&gt;accept/reject" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -173,6 +176,9 @@
         </mxCell>
         <mxCell id="YGY4iPS6tHu55Eu-SYGo-21" value="Extract invalid&lt;br&gt;contacts&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#ffffff;strokeColor=#C73500;strokeWidth=1;fillColor=#fa6800;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="710" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YGY4iPS6tHu55Eu-SYGo-26" value="Analyze if is possible to make direct request when user click on it" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#ae4132;strokeWidth=1;fillColor=#fad9d5;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="517.5" width="160" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
