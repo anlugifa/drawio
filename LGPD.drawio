@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T14:50:29.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YAwHstt2byvZBbCX-EYl" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T14:51:06.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="cCGrbz0OH-ifvZJ8q5vi" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="999" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
           <mxGeometry x="590" y="550" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YGY4iPS6tHu55Eu-SYGo-15" value="Validate&lt;br&gt;&amp;nbsp;e-mail format and show to the user" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=0;strokeColor=#B20000;strokeWidth=1;fillColor=#e51400;glass=0;size=16;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="176" width="100" height="60" as="geometry" />
+          <mxGeometry x="490" y="176" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
