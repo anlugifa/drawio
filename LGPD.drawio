@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T15:15:42.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="khZCFf_W8q5e0VzA8L_8" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T15:18:52.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="CjldyScgmsL-lSPc81PV" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="999" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -87,7 +87,7 @@
             <mxPoint x="630" y="435" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7eqDrlKUqZi-h1YKjJF8-45" value="Call Salesforce API to save the answer" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#ffffff;strokeColor=#3A5431;strokeWidth=1;fillColor=#6d8764;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="7eqDrlKUqZi-h1YKjJF8-45" value="Call Salesforce API to save the answer" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="274" y="817.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7eqDrlKUqZi-h1YKjJF8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7eqDrlKUqZi-h1YKjJF8-47" target="7eqDrlKUqZi-h1YKjJF8-59" edge="1">
@@ -188,6 +188,18 @@
         </mxCell>
         <mxCell id="YGY4iPS6tHu55Eu-SYGo-26" value="Analyze if is possible to make direct request when user click on it" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#ae4132;strokeWidth=1;fillColor=#fad9d5;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="517.5" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="YGY4iPS6tHu55Eu-SYGo-31" value="Salesforce" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="167" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGY4iPS6tHu55Eu-SYGo-32" value="User interaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGY4iPS6tHu55Eu-SYGo-33" value="Feature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="376" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGY4iPS6tHu55Eu-SYGo-34" value="To be confirmed" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="484" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
