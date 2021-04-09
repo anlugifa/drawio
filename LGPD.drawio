@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T14:43:59.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="BxCQz9w3zVqZR9JcMJkt" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T14:44:30.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="7-SzYbsPL4sv0mOieblT" version="14.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1208" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,8 +78,8 @@
             <mxPoint x="4" y="435" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7eqDrlKUqZi-h1YKjJF8-45" value="Call Salesforce API to save the answer" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="274" y="817.5" width="120" height="60" as="geometry" />
+        <mxCell id="7eqDrlKUqZi-h1YKjJF8-45" value="Call Salesforce API to save the answer for all IDs linked to the e-mail" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="817.5" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7eqDrlKUqZi-h1YKjJF8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7eqDrlKUqZi-h1YKjJF8-47" target="7eqDrlKUqZi-h1YKjJF8-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
