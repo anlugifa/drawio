@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T13:45:37.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="zu05s7tE6UKbawCTcWU8" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T13:45:48.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="v4lXpXv0D_mBjKnYZcvR" version="16.2.2" type="github">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
     <mxGraphModel dx="2031" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
         <mxCell id="1ANR2XGOgA5wHceNcDut-25" value="SOLUCAO 1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="40.38" y="40" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1ANR2XGOgA5wHceNcDut-28" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-size: 18px;&quot;&gt;(41) 21706860&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;strokeWidth=3;fontStyle=1;fillColor=#99FF99;strokeColor=#005700;labelBackgroundColor=#99FF99;" vertex="1" parent="1">
+        <mxCell id="1ANR2XGOgA5wHceNcDut-28" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-size: 16px;&quot;&gt;(41) 21706860&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;strokeWidth=3;fontStyle=1;fillColor=#99FF99;strokeColor=#005700;labelBackgroundColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="1430" y="317.5" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
