@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T18:00:10.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Kw0fQz7b0COolmqBBTjA" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T18:00:36.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="k4yEg2kjlOVtITEFlEj-" version="16.2.2" type="github">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
     <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiK40fZT5rMsHauc214G-1" value="&lt;span style=&quot;font-weight: normal&quot;&gt;0800 643 0883&lt;br style=&quot;font-size: 18px&quot;&gt;60 canais&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.0pt ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;Range DDR:&lt;br/&gt;(41)3123-3250 a 3299&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=18;" parent="W0oyuHeiYakJKSwITs1g-5" vertex="1" connectable="0">
+        <mxCell id="PiK40fZT5rMsHauc214G-1" value="&lt;font style=&quot;font-size: 17px ; font-weight: normal&quot;&gt;0800 643 0883&lt;br&gt;60 canais&lt;br&gt;&lt;br&gt;Range DDR:&lt;br&gt;(41)3123-3250 a 3299&lt;/font&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=18;" parent="W0oyuHeiYakJKSwITs1g-5" vertex="1" connectable="0">
           <mxGeometry x="-0.72" relative="1" as="geometry">
             <mxPoint x="9" y="36" as="offset" />
           </mxGeometry>
