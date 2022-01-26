@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T14:15:12.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="-7pgN-wkK0bABoprNanP" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T14:18:15.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="FFwuUTBCRwue2JXPsi_E" version="16.2.2" type="github">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
     <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,6 +175,13 @@
         <mxCell id="1ANR2XGOgA5wHceNcDut-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="1ANR2XGOgA5wHceNcDut-4" target="1ANR2XGOgA5wHceNcDut-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1ANR2XGOgA5wHceNcDut-57" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeWidth=1;dashed=1;" edge="1" parent="1" source="1ANR2XGOgA5wHceNcDut-4" target="PiK40fZT5rMsHauc214G-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-4" value="NOC&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;41-33187890&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;11-33187890&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;12-21707890&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="780" y="30" width="120" height="90" as="geometry" />
         </mxCell>
@@ -205,14 +212,14 @@
         <mxCell id="1ANR2XGOgA5wHceNcDut-25" value="SOLUCAO 1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;strokeWidth=3;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="40.38" y="40" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1ANR2XGOgA5wHceNcDut-28" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-size: 16px;&quot;&gt;(41) 21706860&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;strokeWidth=3;fontStyle=1;fillColor=#99FF99;strokeColor=#005700;labelBackgroundColor=#99FF99;" vertex="1" parent="1">
+        <mxCell id="1ANR2XGOgA5wHceNcDut-28" value="&lt;span style=&quot;color: rgb(36 , 36 , 36) ; font-size: 16px&quot;&gt;(41) 21706860&lt;br&gt;(41) 3318 7777&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;strokeWidth=3;fontStyle=1;fillColor=#99FF99;strokeColor=#005700;labelBackgroundColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="1459.25" y="427.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;strokeWidth=4;" edge="1" parent="1" source="1ANR2XGOgA5wHceNcDut-32" target="PiK40fZT5rMsHauc214G-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ANR2XGOgA5wHceNcDut-32" value="Fila &lt;br style=&quot;font-size: 11px&quot;&gt;Migração em Lote" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1080" y="835" width="79.25" height="40" as="geometry" />
+        <mxCell id="1ANR2XGOgA5wHceNcDut-32" value="Fila &lt;br style=&quot;font-size: 11px&quot;&gt;Provisionamento&lt;br&gt;?????" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="835" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-37" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;PABX SIPPulse&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ip_pbx;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1400" y="700" width="130" height="80" as="geometry" />
