@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T17:54:07.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="P0QBrJAVsIE2AON5J-lj" version="16.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-27T17:56:14.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="uPkdirIfNtdBmQanYS8k" version="16.2.2" type="github" pages="5">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
     <mxGraphModel dx="3022" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -811,7 +811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Passo 4" id="wzXuhtyoVLTHdcCYJ6sm">
-    <mxGraphModel dx="2770" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vDiC3Im5NPfB0LRbVFZx-0" />
         <mxCell id="vDiC3Im5NPfB0LRbVFZx-1" parent="vDiC3Im5NPfB0LRbVFZx-0" />
@@ -987,7 +987,7 @@
           <mxGeometry x="1170" y="825" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-y7d4OWjzEJj1gMA1v1O-0" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#f0a30a;strokeColor=#BD7000;sketch=0;glass=0;fontColor=#000000;" vertex="1" parent="vDiC3Im5NPfB0LRbVFZx-1">
-          <mxGeometry x="120.00000000000001" y="495" width="50" height="41" as="geometry" />
+          <mxGeometry x="130" y="450" width="40" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-y7d4OWjzEJj1gMA1v1O-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;" edge="1" parent="vDiC3Im5NPfB0LRbVFZx-1" source="vDiC3Im5NPfB0LRbVFZx-5" target="-y7d4OWjzEJj1gMA1v1O-0">
           <mxGeometry relative="1" as="geometry">
