@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T18:15:06.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qOBooK71j8dPayi3t84q" version="16.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-28T13:15:38.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sIlEwSOvDTmEPIgel5ee" version="16.2.2" type="github" pages="5">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
-    <mxGraphModel dx="3022" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2078" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-47" value="URA Suporte&lt;br&gt;Especializado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="970" y="835" width="90" height="40" as="geometry" />
+          <mxGeometry x="1057" y="835" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-49" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeWidth=4;" parent="1" source="1ANR2XGOgA5wHceNcDut-47" target="1ANR2XGOgA5wHceNcDut-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -239,12 +239,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-51" value="" style="swimlane;startSize=0;labelBackgroundColor=#1BA1E2;fontFamily=Helvetica;fontSize=16;fontColor=#000000;strokeWidth=3;fillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="970" y="890" width="90" height="150" as="geometry">
+          <mxGeometry x="1057" y="890" width="90" height="150" as="geometry">
             <mxRectangle x="970" y="760" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-52" value="OPCÃO 1&lt;br&gt;OPÇÃO 2&lt;br&gt;OPÇÃO X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="965" y="930" width="90" height="60" as="geometry" />
+          <mxGeometry x="1052" y="930" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-55" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeWidth=4;" parent="1" source="1ANR2XGOgA5wHceNcDut-53" target="1ANR2XGOgA5wHceNcDut-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -260,6 +260,12 @@
         </mxCell>
         <mxCell id="5KbadMaKYRjYB6yb7q5N-4" value="&lt;h1&gt;Telefonia COT&lt;/h1&gt;&lt;p&gt;Autor: André Farina&lt;/p&gt;&lt;p&gt;Data: 27/01/2022&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1040" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KdbyCJPFUGnxyicWOAg_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdbyCJPFUGnxyicWOAg_-1" target="PiK40fZT5rMsHauc214G-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdbyCJPFUGnxyicWOAg_-1" value="Fila &lt;br style=&quot;font-size: 11px&quot;&gt;Provisiona&lt;br&gt;Horizons" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="968" y="835" width="79.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -802,7 +808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Passo 4" id="wzXuhtyoVLTHdcCYJ6sm">
-    <mxGraphModel dx="1847" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vDiC3Im5NPfB0LRbVFZx-0" />
         <mxCell id="vDiC3Im5NPfB0LRbVFZx-1" parent="vDiC3Im5NPfB0LRbVFZx-0" />
