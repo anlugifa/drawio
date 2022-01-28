@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T13:15:38.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sIlEwSOvDTmEPIgel5ee" version="16.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-28T13:48:38.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="-34qv7PHLgasTy3gy99u" version="16.2.2" type="github" pages="5">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
-    <mxGraphModel dx="2078" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,14 @@
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-2" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot; color=&quot;#000000&quot;&gt;Central Assinante SIPPulse&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(36 , 36 , 36) ; background-color: rgb(255 , 255 , 255)&quot;&gt;stfc.horizonstelecom.com.br&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 36 , 36) ; background-color: rgb(255 , 255 , 255)&quot;&gt;10.40.60.13&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; color: rgb(36 , 36 , 36) ; background-color: rgb(255 , 255 , 255) ; font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;DNS= 10.40.60.16&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; color: rgb(36 , 36 , 36) ; background-color: rgb(255 , 255 , 255) ; font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;DNS= 10.30.60.13&lt;/font&gt;&lt;/p&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.ip_pbx;fontColor=#ffffff;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1129.25" y="415" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KdbyCJPFUGnxyicWOAg_-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=18;curved=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1ANR2XGOgA5wHceNcDut-3" target="KdbyCJPFUGnxyicWOAg_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="250" />
+              <mxPoint x="1027" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1ANR2XGOgA5wHceNcDut-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Provisionamento&lt;br&gt;&lt;span&gt;41-3318 7896&lt;br&gt;11-3318 7893&lt;br&gt;&lt;/span&gt;12-21707893&lt;br&gt;41-33187893&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="1280" y="37.5" width="140" height="85" as="geometry" />
