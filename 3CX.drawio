@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T18:59:35.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="w-PKQeuhlMr1XwJr0ecI" version="16.4.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-31T19:00:09.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Kc9fvg0tCeNqVNoxhffn" version="16.4.8" type="github" pages="5">
   <diagram id="I6NLswIqLNYlrb-g64wH" name="Page-1">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiK40fZT5rMsHauc214G-18" value="Fila &lt;br style=&quot;font-size: 11px&quot;&gt;Migração em Lote" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="879.25" y="835" width="79.25" height="40" as="geometry" />
+          <mxGeometry x="883.25" y="835" width="79.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PiK40fZT5rMsHauc214G-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" parent="1" source="PiK40fZT5rMsHauc214G-19" target="PiK40fZT5rMsHauc214G-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -129,11 +129,14 @@
         <mxCell id="PiK40fZT5rMsHauc214G-27" value="" style="points=[[0.59,0,0],[0.87,0.015,0],[0.88,0.3,0],[0.99,0.99,0],[0.5,1,0],[0.01,0.99,0],[0.075,0.5,0],[0.17,0.115,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ip_phone;fillColor=#005073;strokeColor=none;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="800.12" y="990" width="57.49999999999999" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PiK40fZT5rMsHauc214G-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" parent="1" source="PiK40fZT5rMsHauc214G-28" target="PiK40fZT5rMsHauc214G-18" edge="1">
+        <mxCell id="PiK40fZT5rMsHauc214G-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;exitX=0.59;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RX3uo5C9ksP1SQgv8I8p-1" target="PiK40fZT5rMsHauc214G-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RX3uo5C9ksP1SQgv8I8p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#33FFFF;" edge="1" parent="1" source="PiK40fZT5rMsHauc214G-28" target="KdbyCJPFUGnxyicWOAg_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PiK40fZT5rMsHauc214G-28" value="" style="points=[[0.59,0,0],[0.87,0.015,0],[0.88,0.3,0],[0.99,0.99,0],[0.5,1,0],[0.01,0.99,0],[0.075,0.5,0],[0.17,0.115,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ip_phone;fillColor=#005073;strokeColor=none;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="890.12" y="990" width="57.49999999999999" height="50" as="geometry" />
+          <mxGeometry x="978.87" y="990" width="57.49999999999999" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PiK40fZT5rMsHauc214G-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;strokeWidth=3;" parent="1" source="PiK40fZT5rMsHauc214G-36" target="PiK40fZT5rMsHauc214G-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -276,6 +279,9 @@
         </mxCell>
         <mxCell id="KdbyCJPFUGnxyicWOAg_-1" value="Fila &lt;br style=&quot;font-size: 11px&quot;&gt;Provisiona&lt;br&gt;Horizons" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fontColor=#ffffff;fillColor=#76608a;strokeColor=#432D57;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="968" y="835" width="79.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RX3uo5C9ksP1SQgv8I8p-1" value="" style="points=[[0.59,0,0],[0.87,0.015,0],[0.88,0.3,0],[0.99,0.99,0],[0.5,1,0],[0.01,0.99,0],[0.075,0.5,0],[0.17,0.115,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ip_phone;fillColor=#005073;strokeColor=none;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="889.5" y="990" width="57.49999999999999" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
